@@ -1,4 +1,4 @@
-# selenium-insta-bot
+# Selenium-Instagram-Bot
 An Instagram bot to like and comment on a set number of posts
 
 # Description
